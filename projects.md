@@ -9,7 +9,7 @@
 ## Python ミニアプリ（Day9）
 - 概要：簡単な計算アプリ
 - 使用技術：Python / VS Code
-- 詳細ページ：calc.md（作成予定）
+- 詳細ページ：calc.md
 
 ## GitHub Pages ポートフォリオ（Day10〜Day12）
 - 概要：学習ログ型ポートフォリオ
