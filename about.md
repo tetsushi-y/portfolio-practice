@@ -4,7 +4,7 @@
 - [学習ログ](log.md)
 - [プロジェクト紹介](projects.md)
 
-![プロフィール画像](profile.jpg)
+<img src="profile.jpg" width="200">
 
 # 哲志について
 
