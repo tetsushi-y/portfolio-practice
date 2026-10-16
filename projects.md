@@ -6,15 +6,14 @@
 
 # プロジェクト紹介
 
-## 📘 GitHub Pages ポートフォリオ（現在のサイト）
-- **内容**：GitHub Pages を使って自分の学習ログを公開するサイト
-- **技術**：Markdown / Git / GitHub / GitHub Pages / VS Code
-- **ポイント**
-  - GitHub Pages の公開手順を理解
-  - Markdown を複数ページ化
-  - Git の add → commit → push の流れを習得
-- **URL**：  
-  https://tetsushi-y.github.io/portfolio-practice/
+## Python ミニアプリ（Day9）
+- 概要：簡単な計算アプリ
+- 使用技術：Python / VS Code
+
+## GitHub Pages ポートフォリオ（Day10〜Day12）
+- 概要：学習ログ型ポートフォリオ
+- 使用技術：GitHub Pages / Markdown / Minimal テーマ
+
 
 ## 🧪 Python 学習（予定）
 - **内容**：Python の基礎学習とミニアプリ作成
