@@ -11,6 +11,10 @@
 - 使用技術：Python / VS Code
 - 詳細ページ：calc.md
 
+## Python ミニアプリ（Day16）
+- じゃんけんゲーム
+- 詳細ページ：janken.md
+
 ## GitHub Pages ポートフォリオ（Day10〜Day12）
 - 概要：学習ログ型ポートフォリオ
 - 使用技術：GitHub Pages / Markdown / Minimal テーマ
