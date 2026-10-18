@@ -14,3 +14,7 @@
 - calc.png を追加
 - projects.md にリンクを追加
 - ポートフォリオに初めての成果物を掲載
+### Day16
+- janken.py を作成
+- janken.md を作成
+- projects.md にリンクを追加
