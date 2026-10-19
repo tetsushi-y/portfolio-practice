@@ -51,6 +51,10 @@
 - Person クラス（Day25）
 - 詳細ページ：person.md
 
+## Python ミニアプリ（Day26）
+- 複数 Person 管理（Day26）
+- 詳細ページ：persons.md
+
 ## GitHub Pages ポートフォリオ（Day10〜Day12）
 - 概要：学習ログ型ポートフォリオ
 - 使用技術：GitHub Pages / Markdown / Minimal テーマ

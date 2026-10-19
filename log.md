@@ -46,3 +46,7 @@
 - csv_reader.py を作成
 - csv_reader.md を作成
 - projects.md にリンクを追加
+### Day25
+- person.py を作成
+- person.md を作成
+- projects.md にリンクを追加
