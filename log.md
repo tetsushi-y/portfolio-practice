@@ -58,3 +58,7 @@
 - persons_save.py を作成
 - persons_save.md を作成
 - projects.md にリンクを追加
+### Day28
+- persons_load.py を作成
+- persons_load.md を作成
+- projects.md にリンクを追加

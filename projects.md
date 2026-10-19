@@ -59,6 +59,10 @@
 - Person CSV 保存（Day27）
 - 詳細ページ：persons_save.md
 
+## Python ミニアプリ（Day28）
+- Person CSV 読み込み（Day28）
+- 詳細ページ：persons_load.md
+
 ## GitHub Pages ポートフォリオ（Day10〜Day12）
 - 概要：学習ログ型ポートフォリオ
 - 使用技術：GitHub Pages / Markdown / Minimal テーマ
