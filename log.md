@@ -26,3 +26,7 @@
 - weather.py を作成
 - weather.md を作成
 - projects.md にリンクを追加
+### Day19
+- stopwatch.py を作成
+- stopwatch.md を作成
+- projects.md にリンクを追加
