@@ -43,6 +43,10 @@
 - CSV 書き込みツール（Day23）
 - 詳細ページ：csv_writer.md
 
+## Python ミニアプリ（Day24）
+- CSV 読み込みツール（Day24）
+- 詳細ページ：csv_reader.md
+
 ## GitHub Pages ポートフォリオ（Day10〜Day12）
 - 概要：学習ログ型ポートフォリオ
 - 使用技術：GitHub Pages / Markdown / Minimal テーマ
