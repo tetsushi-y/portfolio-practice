@@ -18,6 +18,10 @@
 ## Python ミニアプリ（Day17）
 - タイマー（Day17）
 - 詳細ページ：timer.md
+ 
+## Python ミニアプリ（Day18）
+- 天気API（Day18）
+- 詳細ページ：weather.md
 
 ## GitHub Pages ポートフォリオ（Day10〜Day12）
 - 概要：学習ログ型ポートフォリオ

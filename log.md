@@ -18,3 +18,7 @@
 - janken.py を作成
 - janken.md を作成
 - projects.md にリンクを追加
+### Day17
+- timer.py を作成
+- timer.md を作成
+- projects.md にリンクを追加
