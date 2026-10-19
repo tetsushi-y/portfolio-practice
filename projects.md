@@ -83,6 +83,10 @@
 - PersonDB 削除機能（Day33）
 - 詳細ページ：person_db_delete.md
 
+## Python ミニアプリ（Day34）
+- PersonDB 更新機能（Day34）
+- 詳細ページ：person_db_update.md
+
 ## GitHub Pages ポートフォリオ（Day10〜Day12）
 - 概要：学習ログ型ポートフォリオ
 - 使用技術：GitHub Pages / Markdown / Minimal テーマ

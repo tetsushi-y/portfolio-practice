@@ -83,3 +83,7 @@
 - person_db_delete.py を作成
 - person_db_delete.md を作成
 - projects.md にリンクを追加
+### Day34
+- person_db_update.py を作成
+- person_db_update.md を作成
+- projects.md にリンクを追加
