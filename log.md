@@ -91,3 +91,7 @@
 - person_db_find_all.py を作成
 - person_db_find_all.md を作成
 - projects.md にリンクを追加
+### Day36
+- person_db_autosave.py を作成
+- person_db_autosave.md を作成
+- projects.md にリンクを追加

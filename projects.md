@@ -91,6 +91,10 @@
 - PersonDB 部分一致検索（Day35）
 - 詳細ページ：person_db_find_all.md
 
+## Python ミニアプリ（Day36）
+- PersonDB 自動保存（Day36）
+- 詳細ページ：person_db_autosave.md
+
 ## GitHub Pages ポートフォリオ（Day10〜Day12）
 - 概要：学習ログ型ポートフォリオ
 - 使用技術：GitHub Pages / Markdown / Minimal テーマ
