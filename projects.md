@@ -99,6 +99,10 @@
 - PersonDB メニュー階層化（Day37）
 - 詳細ページ：person_db_menu_nested.md
 
+## Python ミニアプリ（Day38）
+- PersonDB 操作ログ（Day38）
+- 詳細ページ：person_db_history.md
+
 ## GitHub Pages ポートフォリオ（Day10〜Day12）
 - 概要：学習ログ型ポートフォリオ
 - 使用技術：GitHub Pages / Markdown / Minimal テーマ

@@ -99,3 +99,7 @@
 - person_db_menu_nested.py を作成
 - person_db_menu_nested.md を作成
 - projects.md にリンクを追加
+### Day38
+- person_db_history.py を作成
+- person_db_history.md を作成
+- projects.md にリンクを追加
