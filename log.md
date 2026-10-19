@@ -87,3 +87,7 @@
 - person_db_update.py を作成
 - person_db_update.md を作成
 - projects.md にリンクを追加
+### Day35
+- person_db_find_all.py を作成
+- person_db_find_all.md を作成
+- projects.md にリンクを追加

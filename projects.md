@@ -87,6 +87,10 @@
 - PersonDB 更新機能（Day34）
 - 詳細ページ：person_db_update.md
 
+## Python ミニアプリ（Day35）
+- PersonDB 部分一致検索（Day35）
+- 詳細ページ：person_db_find_all.md
+
 ## GitHub Pages ポートフォリオ（Day10〜Day12）
 - 概要：学習ログ型ポートフォリオ
 - 使用技術：GitHub Pages / Markdown / Minimal テーマ
