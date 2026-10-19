@@ -22,3 +22,7 @@
 - timer.py を作成
 - timer.md を作成
 - projects.md にリンクを追加
+### Day18
+- weather.py を作成
+- weather.md を作成
+- projects.md にリンクを追加
