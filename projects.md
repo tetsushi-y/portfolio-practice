@@ -75,6 +75,10 @@
 - PersonDB メニュー式アプリ（Day31）
 - 詳細ページ：person_db_menu.md
 
+## Python ミニアプリ（Day32）
+- PersonDB 検索機能（Day32）
+- 詳細ページ：person_db_find.md
+
 ## GitHub Pages ポートフォリオ（Day10〜Day12）
 - 概要：学習ログ型ポートフォリオ
 - 使用技術：GitHub Pages / Markdown / Minimal テーマ
