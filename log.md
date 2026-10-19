@@ -71,3 +71,7 @@
 - person_db.py を作成
 - person_db.md を作成
 - projects.md にリンクを追加
+### Day31
+- person_db_menu.py を作成
+- person_db_menu.md を作成
+- projects.md にリンクを追加
