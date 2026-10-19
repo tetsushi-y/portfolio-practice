@@ -39,6 +39,10 @@
 - メモ帳ビューア（Day22）
 - 詳細ページ：memo_viewer.md
 
+## Python ミニアプリ（Day23）
+- CSV 書き込みツール（Day23）
+- 詳細ページ：csv_writer.md
+
 ## GitHub Pages ポートフォリオ（Day10〜Day12）
 - 概要：学習ログ型ポートフォリオ
 - 使用技術：GitHub Pages / Markdown / Minimal テーマ
