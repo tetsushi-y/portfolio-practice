@@ -30,3 +30,7 @@
 - stopwatch.py を作成
 - stopwatch.md を作成
 - projects.md にリンクを追加
+### Day20
+- calculator.py を作成
+- calculator.md を作成
+- projects.md にリンクを追加

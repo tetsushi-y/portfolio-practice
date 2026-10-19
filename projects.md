@@ -27,6 +27,14 @@
 - ストップウォッチ（Day19）
 - 詳細ページ：stopwatch.md
 
+## Python ミニアプリ（Day20）
+- ミニ電卓（Day20）
+- 詳細ページ：calculator.md
+
+## Python ミニアプリ（Day21）
+- メモ帳（Day21）
+- 詳細ページ：memo.md
+
 ## GitHub Pages ポートフォリオ（Day10〜Day12）
 - 概要：学習ログ型ポートフォリオ
 - 使用技術：GitHub Pages / Markdown / Minimal テーマ

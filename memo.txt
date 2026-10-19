@@ -1,0 +1,4 @@
+1019
+git add .
+git commit -m "Day21: add memo.py and memo.md"
+git push
