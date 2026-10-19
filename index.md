@@ -21,6 +21,7 @@ https://tetsushi-y.github.io/portfolio-practice/
 - Day9：Python ミニアプリ
 - Day10〜12：ポートフォリオ構築
 
-## 🎯 今後の予定
-- Python ミニアプリの追加
-- AI エージェント構築の基礎学習
+## 🎉 AIエージェント完成（Day40）
+- 完成版 PersonDB（AIエージェント）
+- 詳細ページ：Day40_summary.md
+
