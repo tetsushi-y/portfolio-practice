@@ -47,6 +47,10 @@
 - CSV 読み込みツール（Day24）
 - 詳細ページ：csv_reader.md
 
+## Python ミニアプリ（Day25）
+- Person クラス（Day25）
+- 詳細ページ：person.md
+
 ## GitHub Pages ポートフォリオ（Day10〜Day12）
 - 概要：学習ログ型ポートフォリオ
 - 使用技術：GitHub Pages / Markdown / Minimal テーマ

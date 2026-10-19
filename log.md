@@ -34,3 +34,15 @@
 - calculator.py を作成
 - calculator.md を作成
 - projects.md にリンクを追加
+### Day22
+- memo_viewer.py を作成
+- memo_viewer.md を作成
+- projects.md にリンクを追加
+### Day23
+- csv_writer.py を作成
+- csv_writer.md を作成
+- projects.md にリンクを追加
+### Day24
+- csv_reader.py を作成
+- csv_reader.md を作成
+- projects.md にリンクを追加
