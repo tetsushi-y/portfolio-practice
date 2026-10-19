@@ -67,6 +67,10 @@
 - Person JSON 読み込み（Day29）
 - 詳細ページ：persons_json_load.md
 
+## Python ミニアプリ（Day30）
+- PersonDB（Day30）
+- 詳細ページ：person_db.md
+
 ## GitHub Pages ポートフォリオ（Day10〜Day12）
 - 概要：学習ログ型ポートフォリオ
 - 使用技術：GitHub Pages / Markdown / Minimal テーマ

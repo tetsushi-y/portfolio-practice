@@ -67,3 +67,7 @@
 - persons_json_load.py を作成
 - persons_json_save.md / persons_json_load.md を作成
 - projects.md にリンクを追加
+### Day30
+- person_db.py を作成
+- person_db.md を作成
+- projects.md にリンクを追加
