@@ -103,6 +103,10 @@
 - PersonDB 操作ログ（Day38）
 - 詳細ページ：person_db_history.md
 
+## Python ミニアプリ（Day39）
+- PersonDB 設定ファイル対応（Day39）
+- 詳細ページ：person_db_config.md
+
 ## GitHub Pages ポートフォリオ（Day10〜Day12）
 - 概要：学習ログ型ポートフォリオ
 - 使用技術：GitHub Pages / Markdown / Minimal テーマ

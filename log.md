@@ -103,3 +103,8 @@
 - person_db_history.py を作成
 - person_db_history.md を作成
 - projects.md にリンクを追加
+### Day39
+- config.json を作成
+- person_db_config.py を作成
+- person_db_config.md を作成
+- projects.md にリンクを追加

@@ -1,0 +1,6 @@
+{
+  "database_file": "person_db.json",
+  "history_file": "history.json",
+  "auto_save": true,
+  "welcome_message": "PersonDB へようこそ！（設定ファイルから読み込み）"
+}
