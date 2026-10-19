@@ -95,6 +95,10 @@
 - PersonDB 自動保存（Day36）
 - 詳細ページ：person_db_autosave.md
 
+## Python ミニアプリ（Day37）
+- PersonDB メニュー階層化（Day37）
+- 詳細ページ：person_db_menu_nested.md
+
 ## GitHub Pages ポートフォリオ（Day10〜Day12）
 - 概要：学習ログ型ポートフォリオ
 - 使用技術：GitHub Pages / Markdown / Minimal テーマ

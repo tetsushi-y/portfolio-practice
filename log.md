@@ -95,3 +95,7 @@
 - person_db_autosave.py を作成
 - person_db_autosave.md を作成
 - projects.md にリンクを追加
+### Day37
+- person_db_menu_nested.py を作成
+- person_db_menu_nested.md を作成
+- projects.md にリンクを追加
