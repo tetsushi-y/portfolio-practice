@@ -50,3 +50,11 @@
 - person.py を作成
 - person.md を作成
 - projects.md にリンクを追加
+### Day26
+- persons.py を作成
+- persons.md を作成
+- projects.md にリンクを追加
+### Day27
+- persons_save.py を作成
+- persons_save.md を作成
+- projects.md にリンクを追加
